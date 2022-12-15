@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "name": "Lorena Trindade",
+            "email": "ismael@abordodesign.com.br",
+            "id": 1
+        },
+        {
+            "name": "joao",
+            "email": "ismael@live.com",
+            "id": 2
+        }
+    ]
+}
